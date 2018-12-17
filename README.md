@@ -7,3 +7,17 @@ In order to use this app the user must start from a command line using Node. In 
 
 
 <img src="images/node_liri.png">
+
+In the next example the user can type the "movie-this" command and "the name of the movie" to view information about a movie. If the user does not type a name of a movie, it will always return results for the movie "Mr. Nobody", as seen below.
+
+
+
+<img src="images/movie-this.png">
+
+
+---
+
+**...more to come. check back for additional features**
+
+I still need to add the ability to search for concerts, songs, and read from a text file.
+
